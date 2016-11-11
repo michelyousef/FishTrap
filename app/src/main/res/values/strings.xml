@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FishTrap</string>
+    <string name="click_me">Submit</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_name">Enter your Username</string>
+    <string name="fishtrap">FishTrap</string>
+    <string name="fish">Fish Icon</string>
+    <string name="enter_email">Enter your E-mail ID</string>
+</resources>
